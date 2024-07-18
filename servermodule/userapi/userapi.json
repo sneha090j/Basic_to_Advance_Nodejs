@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"sneha",
+        "username":"sneha090j",
+        "email":"sneha090j@gmail.com",
+        "geo":{
+            "lat":"-37.090",
+            "lng":"81.1457"
+        }
+    },
+    {
+      "id":2,
+        "name":"sweety",
+        "username":"sweety090j",
+        "email":"sweety090j@gmail.com",
+        "geo":{
+            "lat":"-37.090",
+            "lng":"81.1457"
+        }  
+    }
+]
